@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://cinemapara-back.dannysolorza.repl.co/) here!!
 1. Git Clone
 
 ```
-git clone
+git clone https://github.com/DannyRuben/CinemaParaSD
 ```
 
 2. Backend setting
